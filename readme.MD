@@ -42,3 +42,7 @@
 ```
   deno --allow-read --allow-net querying-permission.ts
 ```
+
+```
+  deno --allow-net DenoEchoServer.ts
+```
