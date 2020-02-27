@@ -37,3 +37,8 @@
 ```
   deno --allow-write --allow-read deno_rev_cat.ts
 ```
+
+
+```
+  deno --allow-read --allow-net querying-permission.ts
+```
