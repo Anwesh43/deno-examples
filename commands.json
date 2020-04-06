@@ -1,0 +1,7 @@
+{
+    "ls" : {
+        "cmd" : ["ls", "-lrt"],
+        "stdout" : "piped",
+        "stderr" : "piped"
+    }
+}
