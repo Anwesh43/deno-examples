@@ -1,4 +1,4 @@
-import {Application, Router} from './oak.ts'
+import {Application, Router} from './Oak.ts'
 
 const app = new Application()
 const router = new Router()
